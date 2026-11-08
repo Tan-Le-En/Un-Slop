@@ -21,7 +21,7 @@ UNSLOP is not about minimalism. Playful, colourful and loud work can pass. Uncho
 
 ### Claude Code
 ```
-git clone https://github.com/YOUR-USERNAME/unslop ~/.claude/skills/unslop
+git clone https://github.com/Tan-Le-En/unslop ~/.claude/skills/unslop
 ```
 
 ### ChatGPT, Gemini and other AI tools
